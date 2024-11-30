@@ -7,6 +7,4 @@
 Program yang dibuat bertujuan untuk mengelola data mahasiswa beserta nilai mereka. Program ini berbasis terminal dan menggunakan Python dengan fungsi-fungsi untuk menambah, menghapus, memperbarui, dan menampilkan daftar nilai mahasiswa.
 
 # Kode Program
-- [/lab6.py](./lab6.py)
-![Alt Text](./lab6.py)
--`lab6.py`
+Berikut file kode program - [/lab6.py](./lab6.py)
